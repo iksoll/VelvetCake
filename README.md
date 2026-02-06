@@ -44,7 +44,7 @@
 
 ### 1. База данных
 1. Подключитесь к SQL Server.
-2. Выполните скрипт создания БД из `database/VelvetCakes.sql`.
+2. Выполните скрипт создания БД из `CakeZapros.sql`.
 
 ### 2. Бэкенд
 1. Откройте решение `VelvetCakes.sln` в Visual Studio.
